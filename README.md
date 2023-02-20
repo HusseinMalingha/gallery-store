@@ -18,9 +18,7 @@ pip install -r requirements.txt
 ```
 5. Export the following environment variables
 ```
-export FLASK_APP="application.py"
-export FLASK_PORT=PORT
-export FLASK_DEBUG=1
+run `./run.sh`
 ```
 6. Run a local server from the source folder 
 ```
